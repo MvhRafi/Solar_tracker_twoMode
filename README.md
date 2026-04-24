@@ -73,5 +73,7 @@ Pastikan library berikut sudah terinstal di Arduino IDE Anda sebelum melakukan u
 - **Gerak Terbalik:** Jika servo bergerak menjauhi cahaya, tukar posisi kabel LDR A0 dan A1.
 
 ---
-[**Akses Program](Solar_tracker.ino)
-*Dibuat untuk keperluan dokumentasi proyek Solar Tracker.*
+*[Akses Program](Solar_tracker.ino) , Mau lihat hasil Simulasii? *[klik disini](https://youtu.be/bYPxUNTSIR0?si=929z6YjS58x-HAaG) , sudah lihat videonya? pengen nyoba? nih *[skemanya](Schematic Diagram(2).png)
+---
+*Dibuat oleh Muhammad Rafi dan untuk keperluan dokumentasi proyek Solar Tracker.* 
+
