@@ -1,9 +1,9 @@
 ﻿Name,Quantity,Component
 "U1",1," Arduino Uno R3"
-"Rpot1",1,"250 kΩ Potentiometer"
+"Rpot1",1,"50 kΩ Potentiometer"
 "S1, S2, S3",3," Pushbutton"
 "R10K, R2",2," Photoresistor"
 "U2",1,"PCF8574-based, 39 (0x27) LCD 16 x 2 (I2C)"
 "SERVO1, SERVO2",2,"Positional Micro Servo"
 "BAT1",1," 9V Battery"
-"R1, R3",2,"1 kΩ Resistor"
+"R1, R3",2,"10 kΩ Resistor"
